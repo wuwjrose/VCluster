@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ihepcc-wuwj/!svn/ver/326/Code/VirtualCluster/lib
+END
+JClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ihepcc-wuwj/!svn/ver/378/Code/VirtualCluster/lib/JClient.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ihepcc-wuwj/!svn/ver/326/Code/VirtualCluster/lib/__init__.py
+END
+parse_conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ihepcc-wuwj/!svn/ver/326/Code/VirtualCluster/lib/parse_conf.py
+END
+JServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ihepcc-wuwj/!svn/ver/378/Code/VirtualCluster/lib/JServer.py
+END
