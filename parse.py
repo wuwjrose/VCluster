@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 CONF="match.conf"
 def parse_match_conf(conf):
     fd=open("match.conf","r")
